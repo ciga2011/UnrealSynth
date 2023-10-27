@@ -1,4 +1,4 @@
-UnrealSynth 虚幻合成数据生成器利用虚幻引擎的实时渲染能力搭建逼真的三维场景，为 YOLO 等 AI 模型的训练提供自动生成的图像和标注数据，官方下载地址：[UnrealSynth](https://tools.nsdt.cloud/UnrealSynth)。
+[UnrealSynth](https://tools.nsdt.cloud/UnrealSynth) 虚幻合成数据生成器利用虚幻引擎的实时渲染能力搭建逼真的三维场景，为 YOLO 等 AI 模型的训练提供自动生成的图像和标注数据。
 UnrealSynth 生成的合成数据可用于深度学习模型的训练和验证，可以极大地提高各种行业细分场景中目标识别任务的实施效率，例如：安全帽检测、交通标志检测、施工机械检测、车辆检测、行人检测、船舶检测等。
 
 ![image](https://github.com/ciga2011/UnrealSynth/assets/3120837/67e9c243-f6e9-4ec6-8e50-821290d17652)
